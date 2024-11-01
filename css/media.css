@@ -1,0 +1,997 @@
+@media screen and (min-width: 768px) and (max-width: 991px){
+    
+    
+    .box_text_part {
+    width: 70px !important;
+}
+    
+    .container {
+    padding-right: 15px !important;
+}
+    
+    .for_image {
+    width: 207px;
+    height: 180px;
+    margin: 0 auto;
+}
+    
+    .time_section_threee {
+    width: 16%;
+    height: 342px;
+}
+    .time_section {
+    width: 16%;
+}
+.text_section {
+    width: 84%;
+}
+.time_section2 {
+    width: 16%;
+    height: 385px;
+}
+.text_section_part_two {
+    width: 83%;
+}
+.time_section_three {
+    width: 16%;
+    height: 389px;
+}
+.text_section_three {
+    width: 84%;
+    height: auto;
+}
+.time_section_five {
+    width: 16%;
+}
+.text_section_five {
+    width: 84%;
+}
+.commer_sesstion {
+    height: auto;
+}
+.resi_session {
+    height: 389px;
+}
+.time_section_six {
+    width: 16%;
+    height: 987px;
+}
+.text_section_six {
+    width: 84%;
+}
+.commer_sesstion_six_first {
+    width: 100%;
+}
+.resi_session_six_second {
+    width: 100%;
+}
+.resi_session_six_third {
+    width: 100%;
+}
+.time_section_seven {
+    width: 16%;
+    height: 847px;
+}
+.resi_session_seven_second {
+    width: 100%;
+    height: auto;
+}
+.resi_session_seven_third {
+    width: 100%;
+    height: auto;
+}
+/*------smartbuilding------*/
+.abstract_text {
+    width: 100%;
+}
+/*------smartbuilding------*/
+
+/*------speakerlisting------*/
+.box2 {
+    width: 238px;
+    min-height: 160px;
+}
+.box_image_part {
+    width: 75px;
+    height: 75px;
+}
+/*------speakerlisting------*/
+
+
+/*------speakerpage------*/
+.listing_page_style {
+    padding-left: 8px;
+}
+/*------speakerpage------*/
+
+/*------index2page------*/
+.text_section_commercial {
+    width: 27%;
+    font-size: 16px;
+}
+.text_section_commerciald {
+    width: 47%;
+    font-size: 16px;
+}
+.time_section_three_commercial {
+    width: 16%;
+    height: 276px;
+}
+.text_section_three_commercial {
+    width: 84%;
+}
+.commer_sesstion_commercial {
+    height: 276px;
+}
+.time_section_six_commercial {
+    width: 16%;
+    height: 281px;
+}
+.time_section_seven_commercial {
+    width: 16%;
+    height: 282px;
+}
+/*------speakerpage------*/
+}
+@media screen and (max-width: 767px) and (min-width: 501px){
+    
+    .container {
+    padding-right: 15px !important;
+}
+    
+      
+    .session_location_title {
+    text-align: center;
+}
+.session_location_desc {
+    text-align: center;
+}
+.session_download_url {
+    text-align: center;
+}
+    
+    .commer_sesstion02 {
+    width: 100%;
+}
+    
+    /*----index2page-----*/
+    .text_section_three_commercial {
+    width: 74%;
+}
+    .text_section_commercial {
+        width: 45%;
+        padding: 10px 0px;
+        font-size: 16px;
+}
+.text_section_commerciald {
+    width: 55%;
+    font-size: 16px;
+    padding: 10px 0px 10px 7px;
+}
+.time_section_three_commercial {
+    width: 26%;
+    padding: 84px 0px 10px 0px;
+    font-size: 15px;
+    height: 238px;
+}
+.commer_sesstion_commercial {
+    height: auto;
+}
+.time_section_three_commercial {
+    height: 302px;
+}
+.time_section_six_commercial {
+    width: 26%;
+    font-size: 15px;
+    height:303px;
+}
+.time_section_seven_commercial {
+    width: 26%;
+    font-size: 15px;
+    height: 436px;
+}
+  /*----index2page-----*/  
+  
+  .time_section_threee {
+    width: 26%;
+    font-size: 15px;
+    height: 604px;
+}
+.resi_session2 {
+    width: 100%;
+}
+   .time_section {
+    padding: 10px 0px;
+    font-size: 15px;
+    width: 26%;
+}
+.text_section_three {
+    width: 74%;
+}
+.text_section {
+    width: 74%;
+    font-size: 19px;
+    padding: 7px 0px 4px 38px;
+}
+.time_section2 {
+    width: 26%;
+    padding: 10px 0px;
+    font-size: 14px;
+     height: 541px;
+}
+.text_section_part_two {
+    width: 73%;
+    float: left;
+    background-color: #fff;
+}
+.box1 {
+    width: 72%;
+    margin-left: 35px;
+}
+.commer_sesstion {
+    width: 100%;
+    height: auto;
+}
+.time_section_three {
+    width: 26%;
+    height:564px;
+    font-size: 15px;
+}
+.resi_session {
+    width: 100%;
+    float: left;
+    background-color: #F8D9D9;
+    height: 339px;
+}
+.resi_session {
+    height: auto;
+}
+.time_section_five {
+    width: 26%;
+    height: 88px;
+}
+.text_section_five {
+    width: 74%;
+}
+.time_section_six {
+    height: 1047px;
+    width: 26%;
+    font-size: 14px;
+}
+.text_section_six {
+    width: 74%;
+    float: left;
+    background-color: #fff;
+}
+.commer_sesstion_six_first {
+    width: 100%;
+}
+.resi_session_six_second {
+    width: 100%;
+}
+.resi_session_six_third {
+    width: 100%;
+}
+.time_section_seven {
+    width: 26%;
+    height: 1040px;
+    font-size: 15px;
+}
+.resi_session_seven_second {
+    width: 100%; 
+    height: auto;
+}
+.resi_session_seven_third {
+    width: 100%;
+    height: auto;
+}
+/*-----smartbuilding-------*/
+.details_image_section {
+    width: 100%;
+    float: left;
+}
+.for_image {
+    width: 200px;
+    height: auto;
+    margin: 0 auto;
+    padding-bottom: 18px;
+}
+.details_t_text {
+    padding-left: 0px;
+    text-align: center;
+}
+.session_name {
+    padding-left: 0px;
+    text-align: center;
+}
+.box2 {
+    width: 254px;
+    float: none;
+    margin: 15px auto;
+}
+.abstract_text {
+    padding-left: 0px;
+    float: none;
+    text-align: center;
+}
+.details_text_section {
+    width: 100%;
+    float: left;
+}
+.middle_portion{
+    margin: 0px auto;
+    width: 134px;
+    float: none;
+}
+.abstract_infor_text {
+    float: left;
+    padding-left: 0px;
+    line-height: 27px;
+    text-align: center;
+    padding: 5px;
+}
+/*-----smartbuilding-------*/
+
+
+/*-----speakerpage-------*/
+.listing_page_style {
+    font-size: 30px;
+    padding-left: 0px;
+    text-align: center;
+}
+.list_text {
+    text-align: center;
+}
+.list_editor_text {
+    text-align: center;
+}
+.bond_img_text {
+    text-align: center;
+}
+.list_speaker_style {
+    padding-left: 0px;
+    text-align: center;
+}
+.magnet_style_span {
+    padding-left: 5px;
+    font-size: 13px;
+}
+.magnet_style {
+    float: none;
+    width: 57%;
+    margin: 0 auto;
+}
+/*-----speakerpage-------*/
+}
+
+@media screen and (max-width: 500px) and (min-width: 481px){
+    
+    .container {
+    padding-right: 15px !important;
+}
+      
+    .session_location_title {
+    text-align: center;
+}
+.session_location_desc {
+    text-align: center;
+}
+.session_download_url {
+    text-align: center;
+}
+    
+    .box-minimal {
+    width: 100%;
+    float: left;
+    margin-left: 1px;
+    padding: 2px;
+}
+    
+    .commer_sesstion02 {
+    width: 100%;
+}
+.bt_moderator {
+    margin-left: 6px;
+}
+    
+    /*----index2page-----*/
+    .text_section_three_commercial {
+      width: 74%;
+}
+    .text_section_commercial {
+        width: 45%;
+        padding: 10px 0px;
+        font-size: 14px;
+}
+.text_section_commerciald {
+    width: 55%;
+    font-size: 14px;
+    padding: 10px 0px 10px 7px;
+}
+.time_section_three_commercial {
+    width: 26%;
+    padding: 84px 0px 10px 0px;
+    font-size: 15px;
+    height: 238px;
+}
+.commer_sesstion_commercial {
+    height: auto;
+}
+.time_section_three_commercial {
+    height: 322px;
+}
+.time_section_six_commercial {
+    width: 26%;
+    font-size: 15px;
+    height: 322px;
+}
+.time_section_seven_commercial {
+    width: 26%;
+    font-size: 15px;
+    height: 456px;
+}
+  /*----index2page-----*/  
+  
+  
+  .time_section_threee {
+    width: 26%;
+    font-size: 15px;
+    height: 644px;
+}
+.resi_session2 {
+    width: 100%;
+}
+ .time_section {
+    padding: 10px 0px;
+    font-size: 15px;
+    width: 26%;
+}
+.text_section_three {
+    width: 74%;
+}
+.text_section {
+    width: 74%;
+    font-size: 19px;
+    padding: 7px 0px 4px 38px;
+}
+.time_section2 {
+    width: 26%;
+    padding: 10px 0px;
+    font-size: 14px;
+     height: 586px;
+}
+.text_section_part_two {
+    width: 73%;
+    float: left;
+    background-color: #fff;
+}
+.box1 {
+    width: 80%;
+    margin-left: 38px;
+}
+.commer_sesstion {
+    width: 100%;
+    height: auto;
+}
+.time_section_three {
+    width: 26%;
+    height: 604px;
+    font-size: 15px;
+}
+.resi_session {
+    width: 100%;
+    float: left;
+    background-color: #F8D9D9;
+    height: 339px;
+}
+.resi_session {
+    height:auto;
+}
+.time_section_five {
+    width: 26%;
+    height: 88px;
+}
+.text_section_five {
+    width: 74%;
+}
+.time_section_six {
+    height: 1108px;
+    width: 26%;
+    font-size: 14px;
+}
+.text_section_six {
+    width: 74%;
+    float: left;
+    background-color: #fff;
+}
+.commer_sesstion_six_first {
+    width: 100%;
+}
+.resi_session_six_second {
+    width: 100%;
+}
+.resi_session_six_third {
+    width: 100%;
+}
+.time_section_seven {
+    width: 26%;
+    height: 1100px;
+    font-size: 15px;
+}
+.resi_session_seven_second {
+    width: 100%;
+    height: auto;
+}
+.resi_session_seven_third {
+    width: 100%;
+    height: auto;
+}
+/*-----smartbuilding-------*/
+.details_image_section {
+    width: 100%;
+    float: left;
+}
+.for_image {
+    width: 200px;
+    height: auto;
+    margin: 0 auto;
+    padding-bottom: 18px;
+}
+.details_t_text {
+    padding-left: 0px;
+    text-align: center;
+}
+.session_name {
+    padding-left: 0px;
+    text-align: center;
+}
+.box2 {
+    width: 255px;
+    float: none;
+    margin: 15px auto;
+}
+.abstract_text {
+    padding-left: 0px;
+    float: none;
+    text-align: center;
+}
+.details_text_section {
+    width: 100%;
+    float: left;
+}
+.middle_portion{
+   margin: 0px auto;
+width: 134px;
+float: none;
+}
+.abstract_infor_text {
+    float: left;
+    padding-left: 0px;
+    line-height: 27px;
+    text-align: center;
+    padding: 5px;
+}
+/*-----smartbuilding-------*/
+
+/*-----speakerpage-------*/
+.listing_page_style {
+    font-size: 30px;
+    padding-left: 0px;
+    text-align: center;
+}
+.list_text {
+    text-align: center;
+}
+.list_editor_text {
+    text-align: center;
+}
+.bond_img_text {
+    text-align: center;
+}
+.list_speaker_style {
+    padding-left: 0px;
+    text-align: center;
+}
+.magnet_style_span {
+    padding-left: 5px;
+    font-size: 13px;
+}
+.magnet_style {
+    float: none;
+    width: 67%;
+    margin: 0 auto;
+}
+/*-----speakerpage-------*/
+}
+
+@media screen and (max-width: 479px) and (min-width: 240px){
+    
+    
+    
+    .opening_text_part_alongside {
+    padding-left: 2px;
+}
+    
+    .box_minimal_overview {
+    width: 100%;
+    margin-left: 2px;
+}
+    
+    .container {
+    padding-right: 15px !important;
+}
+    
+    .session_location_title {
+    text-align: center;
+}
+.session_location_desc {
+    text-align: center;
+}
+.session_download_url {
+    text-align: center;
+}
+    
+    .box-minimal {
+    width: 100%;
+    float: left;
+    margin-left: 1px;
+    padding: 2px;
+}
+    
+    .card_info_topright{
+        float: left;
+        width: 109px;
+    }
+    
+    .commer_sesstion02 {
+    width: 100%;
+}
+   .box_image_part {
+    width: 50px;
+    height: 50px;
+} 
+ 
+.bt_moderator {
+    margin-left: 4px;
+}
+    /*----index2page-----*/
+    .text_section_three_commercial {
+      width: 74%;
+}
+    .text_section_commercial {
+        width: 45%;
+        padding: 10px 0px;
+        font-size: 12px;
+}
+.text_section_commerciald {
+    width: 55%;
+    font-size: 12px;
+    padding: 10px 0px 10px 7px;
+}
+.time_section_three_commercial {
+    width: 26%;
+    padding: 84px 0px 10px 0px;
+    font-size: 15px;
+    height: 238px;
+}
+.commer_sesstion_commercial {
+    height: 391px;
+}
+.time_section_three_commercial {
+    height: 391px;
+}
+.time_section_six_commercial {
+    width: 26%;
+    font-size: 15px;
+    height: 429px;
+}
+.time_section_seven_commercial {
+    width: 26%;
+    font-size: 15px;
+    height: 564px;
+}
+  /*----index2page-----*/  
+  
+  
+  .time_section_threee {
+    width: 26%;
+    font-size: 15px;
+    height: 801px;
+}
+.resi_session2 {
+    width: 100%;
+}
+  
+    .comm_sess_style {
+    font-size: 20px;
+}
+  .time_section {
+    padding: 10px 0px;
+    font-size: 9px;
+    width: 26%;
+}
+.text_section_three {
+    width: 74%;
+}
+.text_section {
+    width: 74%;
+    font-size: 19px;
+    padding: 7px 0px 4px 38px;
+}
+.time_section2 {
+    width: 26%;
+    padding: 10px 0px;
+    font-size: 14px;
+     height: 669px;
+}
+.text_section_part_two {
+    width: 73%;
+    float: left;
+    background-color: #fff;
+}
+.box1 {
+    width: 97%;
+    margin-left: 4px;
+}
+.commer_sesstion {
+    width: 100%;
+    height: auto;
+}
+.time_section_three {
+    width: 26%;
+    height: 761px;
+    font-size: 15px;
+}
+.resi_session {
+    width: 100%;
+    float: left;
+    background-color: #F8D9D9;
+    height: 339px;
+}
+.resi_session {
+    height: auto;
+}
+.time_section_five {
+    width: 26%;
+    height: 88px;
+}
+.text_section_five {
+    width: 74%;
+}
+.time_section_six {
+    height: 1429px;
+    width: 26%;
+    font-size: 14px;
+}
+.text_section_six {
+    width: 74%;
+    float: left;
+    background-color: #fff;
+}
+.commer_sesstion_six_first {
+    width: 100%;
+}
+.resi_session_six_second {
+    width: 100%;
+}
+.resi_session_six_third {
+    width: 100%;
+}
+.time_section_seven {
+    width: 26%;
+    height: 1477px;
+    font-size: 15px;
+}
+.resi_session_seven_second {
+    width: 100%; 
+}
+.resi_session_seven_third {
+    width: 100%;
+}
+
+/*-----smartbuilding-------*/
+.details_image_section {
+    width: 100%;
+    float: left;
+}
+.for_image {
+    width: 200px;
+    height: auto;
+    margin: 0 auto;
+    padding-bottom: 18px;
+}
+.details_t_text {
+    padding-left: 0px;
+    text-align: center;
+}
+.session_name {
+    padding-left: 0px;
+    text-align: center;
+}
+.box2 {
+    width: 250px;
+    float: none;
+    margin: 15px auto;
+}
+.abstract_text {
+    padding-left: 0px;
+    float: none;
+    text-align: center;
+}
+.details_text_section {
+    width: 100%;
+    float: left;
+}
+.middle_portion{
+   margin: 0px auto;
+    width: 134px;
+    float: none;
+}
+.abstract_infor_text {
+    float: left;
+    padding-left: 0px;
+    line-height: 27px;
+    text-align: center;
+    padding: 5px;
+}
+/*-----smartbuilding-------*/
+
+/*-----speakerlisting-------*/
+.header_list_text {
+    float: none;
+    text-align: center;
+}
+.header_list_search {
+    float: none;
+    width: 100%;
+}
+.search_biswa_text_section_main {
+    width: 237px;
+    float: none;
+    margin: 0 auto;
+}
+/*-----speakerlisting-------*/
+
+
+/*-----speakerpage-------*/
+.listing_page_style {
+    font-size: 30px;
+    padding-left: 0px;
+    text-align: center;
+}
+.list_text {
+    text-align: center;
+}
+.list_editor_text {
+    text-align: center;
+}
+.bond_img_text {
+    text-align: center;
+}
+.list_speaker_style {
+    padding-left: 0px;
+    text-align: center;
+}
+.magnet_style_span {
+    padding-left: 5px;
+    font-size: 13px;
+}
+/*-----speakerpage-------*/
+}
+
+@media screen and (max-width: 1199px) and (min-width: 992px){
+    
+    
+    div .av_two_third {
+    margin-left: 0px !important;
+    width: 64.66666666666666%;
+}
+    
+      .for_image {
+        width: 100%;
+        padding-right: 10px;
+}
+    
+    .container {
+    padding-right: 15px !important;
+}
+    
+    .details_text_section {
+    padding-right: 64px;
+}
+.abstract_infor_text {
+    padding-right: 66px;
+}
+ .time_section2 {
+    font-size: 17px;
+    height:231px;
+}
+.time_section {
+    font-size: 17px;
+    height: 49px;
+}
+.time_section_three {
+    font-size: 17px;
+    height: 349px;
+}
+.resi_session {
+    height: 349px;
+}
+.time_section_threee {
+    width: 10%;
+    font-size: 17px;
+    height: 302px;
+}
+.box1 {
+    margin-left: 30px;
+}
+.text_section {
+    padding: 10px 0px 10px 27px;
+}
+.opening_text_part {
+    padding-left: 28px;
+}
+.para_text_style {
+    padding-left: 29px;
+}
+.time_section_six {
+    font-size: 17px;
+    height: 440px;
+}
+.time_section_seven {
+    font-size: 17px;
+    height: 526px;
+}
+.resi_session_seven_second {
+    height: 526px;
+}
+.resi_session_seven_third {
+    height: 526px;
+}
+
+/*----speakerpage----*/
+.listing_page_style {
+    padding-left: 41px;
+}
+/*----speakerpage----*/
+
+/*----index2page----*/
+.text_section_commercial {
+    width: 19%;
+}
+.text_section_commerciald {
+    width: 67%;
+}
+.commer_sesstion_commercial {
+    height: 260px;
+}
+.time_section_three_commercial {
+    height: 260px;
+    font-size: 17px;
+}
+.time_section_six_commercial {
+    font-size: 17px;
+    height: 262px;
+}
+.time_section_seven_commercial {
+    font-size: 17px;
+    height: 262px;
+}
+/*----index2page----*/
+
+.abstract_text {
+    width: 100%;
+}
+.container {
+    width: 750px !important;
+}
+}
+@media screen and (max-width: 1240px) and (min-width: 1200px){
+    div .av_two_third {
+    margin-left: 0 !important;
+}
+div .av_one_half {
+    margin-left:0 !important;
+    width: 47%;
+}
+}
